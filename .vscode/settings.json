@@ -1,0 +1,3 @@
+{
+  "java.project.sourcePaths": ["src", "build/web/WEB-INF/lib"]
+}
